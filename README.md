@@ -1,0 +1,2 @@
+# LINEWORKS_BOT
+LINEWORKS BOTに関するテンプレートファイルを保存
